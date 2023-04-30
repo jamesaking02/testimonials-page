@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](../Project%20Screenshots/testimonials-grid-desktop.png.jpg)
+![desktop design](../Project%20Screenshots/testimonials-grid-desktop.png.jpg)
 
-![](../Project%20Screenshots/testimonials-grid-mobile.png.jpg)
+![mobile design](../Project%20Screenshots/testimonials-grid-mobile.png.jpg)
 
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
