@@ -3,6 +3,7 @@
 
 body {
   font-family: 'Barlow Semi Condensed', sans-serif;
+
 }
 
 * {box-sizing: border-box;}
@@ -14,4 +15,36 @@ body {
   --White: hsl(0, 0%, 100%);
   --Light-gray: hsl(0, 0%, 81%);
   --Light-grayish-blue: hsl(210, 46%, 95%);
+}
+
+body main {
+  padding: 4em 1.5em 4em 1.5em;
+}
+
+.grid {
+  display: grid;
+  grid-template: repeat(5, 1fr) / 1fr;
+  gap: 1%;
+}
+
+.card {
+  border-radius: 1em;
+  padding: 1.5em;
+}
+
+.card__grid {
+  display: grid;
+  grid-template: auto auto / auto 1fr;
+}
+
+.card--violet {
+  background-color: var(--Moderate-violet);
+}
+
+.card--darkgray {
+  background-color: var(--Very-dark-grayish-blue);
+}
+
+.card--black {
+  background-color: var(--Very-dark-blackish-blue);
 }
