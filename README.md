@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop design](../ProjectScreenshots/testimonials-grid-desktop.png)
+![desktop design](./images/testimonials-grid-desktop.png)
 
-![mobile design](../ProjectScreenshots/testimonials-grid-mobile.png)
+![mobile design](./images/testimonials-grid-mobile.png)
 
 
 ### Links
